@@ -22,7 +22,7 @@
         <v-icon>mdi-cog-outline</v-icon>
       </v-btn>
     </v-app-bar>
-    <v-main>
+    <v-main class="mt-4">
       <Nuxt />
     </v-main>
   </v-app>
