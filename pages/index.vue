@@ -1,7 +1,7 @@
 <template>
-	<v-row justify="center">
-		<v-col :cols="1" class="red" @click="toggleShow">{{ show }}</v-col>
-		<v-col v-show="show" :cols="1" class="green" @click="toggleShow">{{ show }}</v-col>
+	<v-row no-gutters justify="center">
+		<v-col :cols="1" class="red pt-8" @click="toggleShow">{{ show }}</v-col>
+		<v-col v-show="show" :cols="1" class="green pt-8" @click="toggleShow">{{ show }}</v-col>
 	</v-row>
 </template>
 

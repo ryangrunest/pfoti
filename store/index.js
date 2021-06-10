@@ -1,15 +1,22 @@
 export const state = () => ({
 	settingsModalOpen: false,
+	isDarkMode: false,
 })
 
 export const mutations = {
-	toggleModal(state) {
+	toggleSettingsModal(state) {
 		state.settingsModalOpen = !state.settingsModalOpen
+	},
+	toggleDarkMode(state) {
+		state.isDarkMode = !state.isDarkMode
 	},
 }
 
 export const actions = {
-	toggleModal(context) {
-		context.commit('toggleModal')
+	toggleSettingsModal(context) {
+		context.commit('toggleSettingsModal')
+	},
+	toggleDarkMode(context) {
+		context.commit('toggleDarkMode')
 	},
 }
