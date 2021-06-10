@@ -1,9 +1,15 @@
 export const state = () => ({
-  settingsModalOpen: false,
+	settingsModalOpen: false,
 })
 
 export const mutations = {
-  toggleModal(state) {
-    state.settingsModalOpen = !state.settingsModalOpen
-  },
+	toggleModal(state) {
+		state.settingsModalOpen = !state.settingsModalOpen
+	},
+}
+
+export const actions = {
+	toggleModal(context) {
+		context.commit('toggleModal')
+	},
 }
