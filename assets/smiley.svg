@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 61.3695 45.5116">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#000000" vectornator:shadowColor="#bababa" vectornator:shadowOffset="0" stroke-width="6.39135" fill="none" stroke-linecap="round" vectornator:shadowAngle="-0.17204" stroke-linejoin="round" opacity="1" vectornator:shadowRadius="0" d="M23.3009+6.49114L23.582+16.0309" vectornator:shadowOpacity="0.333"/>
+<path stroke="#000000" vectornator:shadowColor="#bababa" vectornator:shadowOffset="0" stroke-width="6.39135" fill="none" stroke-linecap="round" vectornator:shadowAngle="-0.17204" stroke-linejoin="round" opacity="1" vectornator:shadowRadius="0" d="M33.961+3.22064L33.8152+12.2019" vectornator:shadowOpacity="0.333"/>
+<path stroke="#000000" vectornator:shadowColor="#bababa" vectornator:shadowOffset="0" stroke-width="6.39135" fill="none" stroke-linecap="round" vectornator:shadowAngle="-0.17204" stroke-linejoin="round" opacity="1" vectornator:shadowRadius="0" d="M3.39618+17.7486C1.72727+32.2734+11.5296+27.7059+25.4405+38.2202C39.3514+48.7344+27.2801+27.6785+41.3975+29.4252C70.5699+41.5377+53.4894+15.1348+49.7826+14.1291" vectornator:shadowOpacity="0.333"/>
+</g>
+</svg>

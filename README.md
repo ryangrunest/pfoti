@@ -1,6 +1,8 @@
-# pfoti
+# pfoti - page front of the internet
 
-## Build Setup
+The goal of this project is to have a better understanding of Vue, Vuetify, and Nuxt.js with hands on learning. Without using a database to store personal data, this project will allow the user to have personal notes, view the local weather and events, and have music recommendations given to them daily. Privacy is important, and I never plan on making money from this app, so why would I want your info?
+
+## To run locally...
 
 ```bash
 # install dependencies
@@ -17,4 +19,4 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Built using [Nuxt.js](https://nuxtjs.org), [Vue](https://vuejs.org/v2/guide/), [Vuetify](https://vuetifyjs.com/en/), and time.
